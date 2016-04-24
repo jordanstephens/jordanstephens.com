@@ -1,0 +1,171 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
+blockquote, q { quotes: none; }
+blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
+table { border-collapse: collapse; border-spacing: 0; }
+ol, ul { list-style: none; }
+
+/* clearfixes */
+.page-width-wrapper:after {
+  content:" ";
+  display: block;
+  clear: both;
+}
+
+html { background-color: hsl(20, 100%, 66%);; }
+body, h1 a, footer a { color: hsl(220, 20%, 20%); }
+a { color: hsl(220, 100%, 66%); }
+h1 a, footer a { text-decoration: none; }
+p { line-height: 1.5; }
+img { max-width: 100%; }
+em { font-style: italic; }
+strong { font-weight: bold; }
+h1, h2, h3, p, ul { margin-bottom: 1em; }
+h1, h2, h3 { font-family: "Helvetica", "Arial", sans-serif; }
+h2 { text-transform: uppercase; }
+h3 { font-weight: bold; }
+footer, h2 { color: hsl(0, 0%, 60%); }
+
+html { height: 100%; min-width: 280px; }
+html, body, .page-width-wrapper { min-height: 100%; }
+body, .page-width-wrapper { box-sizing: border-box; }
+.body-wrapper { border: 2px solid hsl(0, 0%, 85%); }
+header, main { box-sizing: border-box; }
+header { float: left; width: 220px; padding-right: 30px; text-align: right; }
+main { margin-left: 220px; padding-left: 30px; }
+
+body {
+  background-color: hsl(0, 0%, 98%);
+  font-family: "Palatino", "Times New Roman", serif;
+  font-size: 100%;
+  padding: 20px;
+}
+
+.page-width-wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 60px;
+}
+
+header:after {
+  background-color: hsl(0, 0%, 85%);
+  content: " ";
+  display: block;
+  float: right;
+  font-size: 1em;
+  margin: 1em auto;
+  height: 0.75em;
+  width: 0.75em;
+}
+
+h1 a {
+  display: inline-block;
+  line-height: 26px;
+}
+
+h1 a:before {
+  background: url("../images/mark.svg") -8px -4px;
+  content: "";
+  display: block;
+  float: left;
+  height: 26px;
+  width: 16px;
+  margin-right: 8px;
+}
+
+h2:before {
+  border: 2px solid hsl(0, 0%, 75%);
+  content: " ";
+  display: block;
+  height: 0;
+  font-size: 16px !important;
+  margin: 1em 0;
+  width: 120px;
+}
+
+.portrait {
+  border: 4px solid hsl(40, 0%, 97%);
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+.contact h2:before { float: right; }
+.contact ul { font-family: monospace; }
+.contact ul, .contact ul a { color: hsl(220, 100%, 66%); }
+.profile, .intro { height: 220px; }
+
+.intro {
+  box-sizing: border-box;
+  padding-top: 56px;
+}
+
+.intro p:first-child { font-size: 1.5em; }
+.intro p { font-size: 1.0em; }
+
+.project-links { font-size: 0.66em; vertical-align: middle; }
+.project-links:before { content: "["; }
+.project-links:after { content: "]"; }
+
+footer {
+  padding: 0 60px 60px 60px;
+  text-align: right;
+}
+
+@media (max-width: 1140px) {
+  .page-width-wrapper { padding: 40px; }
+}
+
+@media (max-width: 920px) {
+  .intro { font-size: 1em; }
+}
+
+@media (max-width: 880px) {
+  h1, h2 { font-size: 1em; line-height: 26px; }
+  main, header {
+    clear: both;
+    float: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+  }
+  header:after { display: none; }
+  .profile, .intro { height: auto; }
+  .profile { float: left; margin-bottom: 1em; }
+  .contact h2:before { float: none; margin-left: auto; margin-right: 0; }
+  .contact { float: right; text-align: right; }
+  .intro { padding-top: 0; }
+  .portrait { width: 120px; }
+  footer { text-align: center; }
+}
+
+@media (max-width: 580px) {
+  .page-width-wrapper { padding: 20px; }
+}
+
+@media (max-width: 540px) {
+  body { font-size: 90%; }
+  .page-width-wrapper { border: 0; padding: 20px; }
+  header:after { display: block; float: none; margin: 2em auto; }
+  .profile, .contact {
+    float: none;
+    text-align: center;
+  }
+  .portrait { width: 100px; }
+  .contact:before,
+  .contact h2 { display: none; }
+  main { margin-top: 1em; }
+}
+
+@media (max-width: 480px) {
+  body { padding: 0; }
+  main { font-size: 75%; }
+  .body-wrapper { border: 0; }
+}
