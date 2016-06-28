@@ -9,7 +9,16 @@ html, body {
 .page-width-wrapper {
   margin: 0 auto;
   max-width: 600px;
-  padding: 60px;
+  padding: 60px 20px;
+}
+
+@media (max-width: 600px) {
+  body { font-size: 0.9em; }
+}
+
+@media (max-width: 480px) {
+  body { font-size: 0.8em; }
+  .page-width-wrapper { padding: 0; }
 }
 
 section { margin-bottom: 2em; }
