@@ -42,7 +42,7 @@ header { float: left; width: 220px; padding-right: 30px; text-align: right; }
 main { margin-left: 220px; padding-left: 30px; }
 
 body {
-  background-color: hsl(0, 0%, 98%);
+  background-color: hsl(0, 0%, 99%);
   font-family: "Palatino", "Times New Roman", serif;
   font-size: 100%;
   padding: 20px;
