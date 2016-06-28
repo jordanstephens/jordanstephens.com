@@ -1,52 +1,11 @@
-html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, section, summary, time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; }
-blockquote, q { quotes: none; }
-blockquote:before, blockquote:after, q:before, q:after { content: ''; content: none; }
-table { border-collapse: collapse; border-spacing: 0; }
-ol, ul { list-style: none; }
+@import "shared.css";
 
-/* clearfixes */
-.page-width-wrapper:after {
-  content:" ";
-  display: block;
-  clear: both;
-}
-
-body, h1 a, footer a { color: hsl(220, 20%, 20%); }
-a { color: hsl(220, 100%, 66%); }
-h1 a, footer a { text-decoration: none; }
-p { line-height: 1.5; }
-img { max-width: 100%; }
-em { font-style: italic; }
-strong { font-weight: bold; }
-h1, h2, h3, p, ul { margin-bottom: 1em; }
-h1, h2, h3 { font-family: "Lucida Grande", "Helvetica", "Arial", sans-serif; font-size: 1em; }
-h1, h2 { line-height: 26px; }
-h2 { text-transform: uppercase; letter-spacing: 0.06em; }
-h3 { font-weight: bold; }
-footer, h2 { color: hsl(0, 0%, 60%); }
-
-html { background-color: hsl(20, 100%, 66%); height: 100%; min-width: 280px; }
 html, body, .page-width-wrapper { min-height: 100%; }
-body, .page-width-wrapper { box-sizing: border-box; }
-.body-wrapper { border: 2px solid hsl(0, 0%, 85%); }
-header, main { box-sizing: border-box; }
 header { float: left; width: 220px; padding-right: 30px; text-align: right; }
 main { margin-left: 220px; padding-left: 30px; }
-
-body {
-  background-color: hsl(0, 0%, 99%);
-  font-family: "Palatino", "Times New Roman", serif;
-  font-size: 100%;
-  padding: 20px;
-}
+.body-wrapper { border: 2px solid hsl(0, 0%, 85%); }
+h1, h2, h3 { font-family: "Lucida Grande", "Helvetica", "Arial", sans-serif; }
+body { font-family: "Palatino", "Times New Roman", serif; }
 
 .page-width-wrapper {
   margin: 0 auto;

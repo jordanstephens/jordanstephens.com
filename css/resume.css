@@ -1,0 +1,31 @@
+@import "shared.css";
+
+html, body {
+  font-family: "Lucida Grande", sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.page-width-wrapper {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 60px;
+}
+
+section { margin-bottom: 2em; }
+
+hr { border: none; margin: 2em 0; }
+hr:before {
+  content: "* * *";
+  display: block;
+  text-align: center;
+}
+
+main ul {
+  list-style: circle;
+  padding-left: 2em;
+}
+
+main ul ul { list-style: square; }
+
+footer { text-align: center; }

@@ -1,0 +1,96 @@
+
+
+
+    Jordan Stephens
+    New York, NY
+
+    jordan@stephens.io
+    jordanstephens.com
+    github.com/jordanstephens
+
+
+
+    Experience
+    ==========
+
+    MotoLogic
+    ---------
+
+    UX/UI, Full Stack Developer
+    2012 - Present
+    New York, NY
+
+    MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand.
+
+    * Owned UX/UI and full stack development on application behind primary product.
+    * Lead development of support for tablets and small screens to improve user experience on the shop floor.
+    * Helped design and implement content and user integration strategies with 3rd parties.
+    * Pushed primary product refactoring and new development from monolithic Rails application to a "universal" React front-end to a (thin) Rails application shell around smaller, focused packages.
+    * Worked to optimize performance and improve user experience on slow networks and old hardware:
+      - simplified and consolidated content storage strategies to reduce lookup times
+      - implemented aggressive caching strategies
+      - reduced payload sizes of content and assets to improve network performance
+      - moved subsequent view rendering to the client.
+
+    Deep Space Robots
+    -----------------
+
+    UX/UI, Full Stack Developer
+    2010 - 2011
+    Dallas, TX
+
+    Deep Space Robots is a digital creative agency in Dallas.
+
+    * Worked with a designer to build out simple websites on content management systems and more complex web applications on Rails.
+    * I really cut my teeth here on the front-end world and learned how to write solid markup, styles, and scripts that were performant and maintainable.
+
+
+
+    Education
+    =========
+
+    BSc Computer Science
+    University of North Texas
+    2012
+    Denton, TX
+
+
+
+    Learning and Personal Projects
+    ==============================
+
+    I'm generally interested in software development, user experience, and design, but I have really enjoyed trying to fold my interests into one another over the last few years in the form of toy personal projects. I like to use these as opportunities to learn new technologies as well.
+
+    I've been a musician for most of my life and I have enjoyed working on little toys to try to bring this interest together with my interest in making software for web browsers.
+
+    Mono
+    ----
+
+    A monophonic synthesizer built with clojurescript and the Web Audio API.
+
+    [live] http://mono.jordanstephens.com
+
+    Rp
+    --
+
+    A sequencer built with React and Redux on the Tone.js audio library.
+
+    [live] http://rp.jordanstephens.com
+
+    * * *
+
+    I've also developed an interest in spaceflight and orbital mechanics over the last couple of years, and I hope to build more as I continue to explore that field.
+
+    Prograde
+    --------
+
+    A visualizer for the ground paths of satellites with arbitrary orbital parameters.
+
+    [live] http://prograde.jordanstephens.com
+
+    Kepler
+    ------
+
+    A library for calculating the dynamic position of an object in a two-body Keplerian orbit.
+
+    [source] https://github.com/jordanstephens/kepler
