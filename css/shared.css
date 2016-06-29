@@ -42,5 +42,8 @@ body {
   background-color: hsl(0, 0%, 99%);
   font-size: 100%;
   padding: 20px;
-  word-wrap: break-word; 
+}
+
+main {
+  word-wrap: break-word;
 }
