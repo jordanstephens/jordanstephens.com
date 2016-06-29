@@ -17,7 +17,6 @@ html, body {
 }
 
 @media (max-width: 480px) {
-  body { font-size: 0.8em; }
   .page-width-wrapper { padding: 0; }
 }
 
@@ -31,10 +30,10 @@ hr:before {
 }
 
 main ul {
-  list-style: circle;
+  list-style: square;
   padding-left: 2em;
 }
 
-main ul ul { list-style: square; }
+main ul ul { list-style: circle; margin-bottom: 0; }
 
 footer { text-align: center; }

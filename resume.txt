@@ -1,96 +1,100 @@
 
 
 
-    Jordan Stephens
-    New York, NY
+Jordan Stephens
+New York, NY
 
-    jordan@stephens.io
-    jordanstephens.com
-    github.com/jordanstephens
-
-
-
-    Experience
-    ==========
-
-    MotoLogic
-    ---------
-
-    UX/UI, Full Stack Developer
-    2012 - Present
-    New York, NY
-
-    MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand.
-
-    * Owned UX/UI and full stack development on application behind primary product.
-    * Lead development of support for tablets and small screens to improve user experience on the shop floor.
-    * Helped design and implement content and user integration strategies with 3rd parties.
-    * Pushed primary product refactoring and new development from monolithic Rails application to a "universal" React front-end to a (thin) Rails application shell around smaller, focused packages.
-    * Worked to optimize performance and improve user experience on slow networks and old hardware:
-      - simplified and consolidated content storage strategies to reduce lookup times
-      - implemented aggressive caching strategies
-      - reduced payload sizes of content and assets to improve network performance
-      - moved subsequent view rendering to the client.
-
-    Deep Space Robots
-    -----------------
-
-    UX/UI, Full Stack Developer
-    2010 - 2011
-    Dallas, TX
-
-    Deep Space Robots is a digital creative agency in Dallas.
-
-    * Worked with a designer to build out simple websites on content management systems and more complex web applications on Rails.
-    * I really cut my teeth here on the front-end world and learned how to write solid markup, styles, and scripts that were performant and maintainable.
+jordan@stephens.io
+jordanstephens.com
+github.com/jordanstephens
 
 
 
-    Education
-    =========
+Experience
+==========
 
-    BSc Computer Science
-    University of North Texas
-    2012
-    Denton, TX
+MotoLogic
+---------
+
+UX/UI, Full Stack Developer
+2012 - Present
+New York, NY
+
+MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand.
+
+* Owned UX/UI and full stack development on application behind primary product
+* Designed and implemented features to improve user experience, responding to user research:
+  - Migrated an overwhelming, monolithic search flow to a few focused, simplified options to empower users with different lookup strategies and to reduce UI complexity
+  - Built an interactive "zoom and pan" article viewer to allow users to see small details in schematics and diagrams
+  - Added support for tablets and small screens, so users can take dynamic content with them to the engine block
+* Worked to optimize performance and improve user experience on slow networks:
+  - Simplified and consolidated content storage strategies to reduce lookup times
+  - Implemented aggressive caching strategies
+  - Reduced payload sizes of content and assets by improving data structures and formats
+  - Moved subsequent view rendering to the client
+* Pushed primary product refactoring and new development from monolithic Rails application to a "universal" React front-end to a (thin) Rails application shell around smaller, focused packages
+
+Deep Space Robots
+-----------------
+
+UX/UI, Full Stack Developer
+2010 - 2011
+Dallas, TX
+
+Deep Space Robots is a digital creative agency in Dallas.
+
+* Worked with a designer to build out simple websites on content management systems and more complex web applications on Rails.
+* I really cut my teeth here on the front-end world and learned how to write solid markup, styles, and scripts that were performant and maintainable.
 
 
 
-    Learning and Personal Projects
-    ==============================
+Education
+=========
 
-    I'm generally interested in software development, user experience, and design, but I have really enjoyed trying to fold my interests into one another over the last few years in the form of toy personal projects. I like to use these as opportunities to learn new technologies as well.
+BSc Computer Science
+University of North Texas
+2012
+Denton, TX
 
-    I've been a musician for most of my life and I have enjoyed working on little toys to try to bring this interest together with my interest in making software for web browsers.
 
-    Mono
-    ----
 
-    A monophonic synthesizer built with clojurescript and the Web Audio API.
+Learning and Personal Projects
+==============================
 
-    [live] http://mono.jordanstephens.com
+I'm generally interested in software development, user experience, and design, but I have really enjoyed trying to fold my interests into one another over the last few years in the form of toy personal projects. I like to use these as opportunities to learn new technologies as well.
 
-    Rp
-    --
+* * *
 
-    A sequencer built with React and Redux on the Tone.js audio library.
+I've been a musician for most of my life and I have enjoyed working on little toys to try to bring this interest together with my interest in making software for web browsers.
 
-    [live] http://rp.jordanstephens.com
+Mono
+----
 
-    * * *
+A monophonic synthesizer built with clojurescript and the Web Audio API.
 
-    I've also developed an interest in spaceflight and orbital mechanics over the last couple of years, and I hope to build more as I continue to explore that field.
+[live] http://mono.jordanstephens.com
 
-    Prograde
-    --------
+Rp
+--
 
-    A visualizer for the ground paths of satellites with arbitrary orbital parameters.
+A sequencer built with React and Redux on the Tone.js audio library.
 
-    [live] http://prograde.jordanstephens.com
+[live] http://rp.jordanstephens.com
 
-    Kepler
-    ------
+* * *
 
-    A library for calculating the dynamic position of an object in a two-body Keplerian orbit.
+I've also developed an interest in spaceflight and orbital mechanics over the last couple of years, and I hope to build more as I continue to explore that field.
 
-    [source] https://github.com/jordanstephens/kepler
+Prograde
+--------
+
+A visualizer for the ground paths of satellites with arbitrary orbital parameters.
+
+[live] http://prograde.jordanstephens.com
+
+Kepler
+------
+
+A library for calculating the dynamic position of an object in a two-body Keplerian orbit.
+
+[source] https://github.com/jordanstephens/kepler
