@@ -73,6 +73,7 @@ Mono
 A monophonic synthesizer built with clojurescript and the Web Audio API.
 
 [live] http://mono.jordanstephens.com
+[source] http://github.com/jordanstephens/mono
 
 Rp
 --
@@ -80,6 +81,7 @@ Rp
 A sequencer built with React and Redux on the Tone.js audio library.
 
 [live] http://rp.jordanstephens.com
+[source] http://github.com/jordanstephens/rp
 
 * * *
 
@@ -91,6 +93,7 @@ Prograde
 A visualizer for the ground paths of satellites with arbitrary orbital parameters.
 
 [live] http://prograde.jordanstephens.com
+[source] http://github.com/jordanstephens/prograde
 
 Kepler
 ------
