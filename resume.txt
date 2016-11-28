@@ -13,11 +13,18 @@ github.com/jordanstephens
 Experience
 ==========
 
+ROLI
+----
+
+UX/UI, Full Stack Developer
+2016 - Present
+New York, NY
+
 MotoLogic
 ---------
 
 UX/UI, Full Stack Developer
-2012 - Present
+2012 - 2016
 New York, NY
 
 MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand.
