@@ -20,6 +20,14 @@ UX/UI, Full Stack Developer
 2016 - Present
 New York, NY
 
+ROLI is a music technology company building new musical instruments and integrated creative environments.
+
+* Architected and developed desktop application for managing ROLI hardware and software as one of two primary developers
+* Architected and developed web API features and helped manage infrastructure and operations
+* Built an interactive NOISE.fm project player using Web Audio
+* Developed internal libraries and tools to analyze NOISE project archives
+* Made front-end contributions to nearly all ROLI web applications, working closely with design teams to optimize user experience within system constraints
+
 MotoLogic
 ---------
 
