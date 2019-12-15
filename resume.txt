@@ -13,11 +13,24 @@ github.com/jordanstephens
 Experience
 ==========
 
+Artemis
+----
+
+Senior Software Engineer
+September 2019 - Present
+Remote
+
+Artemis is a Cultivation Management Platform for enterprise greenhouses, indoor and high tunnel farms.
+
+* Led small teams of developers in feature development and maintenance rotations.
+* Worked to stabilize a rapidly evolving platform by focusing on building maintainable interfaces, promoting root cause analysis and advocating for stronger code review.
+* Worked to scale parts of the platform that were designed with small farms in mind.
+
 ROLI
 ----
 
 UX/UI, Full Stack Developer
-2016 - Present
+September 2016 - September 2019
 New York, NY
 
 ROLI is a music technology company building new musical instruments and integrated creative environments.
@@ -32,22 +45,14 @@ MotoLogic
 ---------
 
 UX/UI, Full Stack Developer
-2012 - 2016
+April 2012 - September 2016
 New York, NY
 
 MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand.
 
 * Owned UX/UI and full stack development on application behind primary product
-* Designed and implemented features to improve user experience, responding to user research:
-  - Migrated an overwhelming, monolithic search flow to a few focused, simplified options to empower users with different lookup strategies and to reduce UI complexity
-  - Built an interactive "zoom and pan" article viewer to allow users to see small details in schematics and diagrams
-  - Added support for tablets and small screens, so users can take dynamic content with them to the engine block
-* Worked to optimize performance and improve user experience on slow networks:
-  - Simplified and consolidated content storage strategies to reduce lookup times
-  - Implemented aggressive caching strategies
-  - Reduced payload sizes of content and assets by improving data structures and formats
-  - Moved subsequent view rendering to the client
-* Pushed primary product refactoring and new development from monolithic Rails application to a "universal" React front-end to a (thin) Rails application shell around smaller, focused packages
+* Migrated an overwhelming, monolithic search flow to a few focused, simplified options to empower users with different lookup strategies and to reduce UI complexity in response to user research
+* Built an interactive "zoom and pan" article viewer to allow users to see small details in schematics and diagrams
 
 Deep Space Robots
 -----------------
@@ -78,41 +83,22 @@ Learning and Personal Projects
 
 I'm generally interested in software development, user experience, and design, but I have really enjoyed trying to fold my interests into one another over the last few years in the form of toy personal projects. I like to use these as opportunities to learn new technologies as well.
 
-* * *
-
-I've been a musician for most of my life and I have enjoyed working on little toys to try to bring this interest together with my interest in making software for web browsers.
-
-Mono
+Mono [http://github.com/jordanstephens/mono]
 ----
 
 A monophonic synthesizer built with clojurescript and the Web Audio API.
 
-[live] http://mono.jordanstephens.com
-[source] http://github.com/jordanstephens/mono
-
-Rp
+Rp [http://github.com/jordanstephens/rp]
 --
 
 A sequencer built with React and Redux on the Tone.js audio library.
 
-[live] http://rp.jordanstephens.com
-[source] http://github.com/jordanstephens/rp
-
-* * *
-
-I've also developed an interest in spaceflight and orbital mechanics over the last couple of years, and I hope to build more as I continue to explore that field.
-
-Prograde
+Prograde [http://github.com/jordanstephens/prograde]
 --------
 
 A visualizer for the ground paths of satellites with arbitrary orbital parameters.
 
-[live] http://prograde.jordanstephens.com
-[source] http://github.com/jordanstephens/prograde
-
-Kepler
+Kepler [https://github.com/jordanstephens/kepler]
 ------
 
 A library for calculating the dynamic position of an object in a two-body Keplerian orbit.
-
-[source] https://github.com/jordanstephens/kepler

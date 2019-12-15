@@ -20,13 +20,15 @@ html, body {
   .page-width-wrapper { padding: 0; }
 }
 
-section { margin-bottom: 2em; }
+small { font-size: smaller; }
+main header,
+section { margin-bottom: 1em; }
 
-hr { border: none; margin: 2em 0; }
-hr:before {
-  content: "* * *";
-  display: block;
-  text-align: center;
+article { page-break-inside: avoid; }
+
+main header div {
+  display: flex;
+  justify-content: space-between;
 }
 
 main ul {
