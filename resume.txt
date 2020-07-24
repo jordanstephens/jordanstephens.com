@@ -17,7 +17,7 @@ Artemis
 ----
 
 Senior Software Engineer
-September 2019 - Present
+September 2019 - July 2020
 Remote
 
 Artemis is a Cultivation Management Platform for enterprise greenhouses, indoor and high tunnel farms.
