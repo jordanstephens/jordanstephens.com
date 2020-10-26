@@ -13,6 +13,19 @@ github.com/jordanstephens
 Experience
 ==========
 
+Care/of
+----
+
+Senior Software Engineer
+July 2020 - Present
+Remote
+
+Care/of is a health and wellness company offering personalized products direct-to-consumer
+
+* Developed fulfillment center operations software, supporting fulfillment of thousands of orders per day
+* Worked to automate fulfillment center processes and improve efficiency by, for example, integrating a computer vision model to reduce the time spent on manual QA sampling
+* Developed internal tools to improve the human interface to the fulfillment center by creating automation tools and by improving process visibility
+
 Artemis
 ----
 
@@ -20,11 +33,11 @@ Senior Software Engineer
 September 2019 - July 2020
 Remote
 
-Artemis is a Cultivation Management Platform for enterprise greenhouses, indoor and high tunnel farms.
+Artemis is a Cultivation Management Platform for enterprise greenhouses, indoor and high tunnel farms
 
-* Led small teams of developers in feature development and maintenance rotations.
-* Worked to stabilize a rapidly evolving platform by focusing on building maintainable interfaces, promoting root cause analysis and advocating for stronger code review.
-* Worked to scale parts of the platform that were designed with small farms in mind.
+* Led small teams of developers in feature development and maintenance rotations
+* Scaled up a platform designed for small farms in mind to support enterprise workloads
+* Stabilized a rapidly evolving platform by focusing on building maintainable interfaces, promoting root cause analysis and advocating for strong code review
 
 ROLI
 ----
@@ -33,13 +46,12 @@ UX/UI, Full Stack Developer
 September 2016 - September 2019
 New York, NY
 
-ROLI is a music technology company building new musical instruments and integrated creative environments.
+ROLI is a music technology company building new musical instruments and integrated creative environments
 
 * Architected and developed desktop application for managing ROLI hardware and software as one of two primary developers
-* Architected and developed web API features and helped manage infrastructure and operations
+* Architected and developed web API for all platform products, managed infrastructure and operations
 * Built an interactive NOISE.fm project player using Web Audio
 * Developed internal libraries and tools to analyze NOISE project archives
-* Made front-end contributions to nearly all ROLI web applications, working closely with design teams to optimize user experience within system constraints
 
 MotoLogic
 ---------
@@ -48,7 +60,7 @@ UX/UI, Full Stack Developer
 April 2012 - September 2016
 New York, NY
 
-MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand.
+MotoLogic is a tool used by automotive technicians to help diagnose and repair vehicle issues by providing manufacturer and after-market technical data and documentation on demand
 
 * Owned UX/UI and full stack development on application behind primary product
 * Migrated an overwhelming, monolithic search flow to a few focused, simplified options to empower users with different lookup strategies and to reduce UI complexity in response to user research
