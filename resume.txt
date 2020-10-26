@@ -95,15 +95,15 @@ Learning and Personal Projects
 
 I'm generally interested in software development, user experience, and design, but I have really enjoyed trying to fold my interests into one another over the last few years in the form of toy personal projects. I like to use these as opportunities to learn new technologies as well.
 
+Zzz machine [http://github.com/jordanstephens/sleep-machine]
+--
+
+A generative sequencer built with first-order markov chains.
+
 Mono [http://github.com/jordanstephens/mono]
 ----
 
 A monophonic synthesizer built with clojurescript and the Web Audio API.
-
-Rp [http://github.com/jordanstephens/rp]
---
-
-A sequencer built with React and Redux on the Tone.js audio library.
 
 Prograde [http://github.com/jordanstephens/prograde]
 --------
