@@ -2,7 +2,7 @@
 
 
 Jordan Stephens
-New York, NY
+Vancouver, BC
 
 jordan@stephens.io
 jordanstephens.com
@@ -13,11 +13,27 @@ github.com/jordanstephens
 Experience
 ==========
 
+Slipwise
+----
+
+Founding Engineer
+September 2023 – July 2024
+Vancouver, BC
+
+Slipwise is the Marina Operating System. Simplifying customer contracts, insurance collection, payments, and operations planning.
+
+Fleetio
+----
+
+Senior Software Engineer, Platform
+July 2021 - September 2023
+Vancouver, BC
+
 Care/of
 ----
 
 Senior Software Engineer
-July 2020 - Present
+July 2020 - July 2021
 Remote
 
 Care/of is a health and wellness company offering personalized products direct-to-consumer
